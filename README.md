@@ -2,7 +2,7 @@
 Using async javascript and css, this website generates a cookie consent that the users **must** go through to access the page.
 Made along with scrimba's interactve essential javascript tutorial. 
 
-View Link - 
+[Click Here to View!](https://ludrahsgartage.github.io/Funny-Annoying-Cookie-Consent/)
 
 ## About Scrimba
 
